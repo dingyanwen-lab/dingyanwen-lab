@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics for microbiome.
 - 🌱 I’m currently learning epidemiology and health statistics.
 - 💞️ I’m looking to collaborate on bioinformatics.
-- 📫 How to reach me ...
+- 📫 My e-mail is dingyanwen@mail.sdu.edu.cn
 
 <!---
 dingyanwen-lab/dingyanwen-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
